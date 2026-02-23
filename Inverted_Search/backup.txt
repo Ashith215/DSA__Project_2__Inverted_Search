@@ -1,0 +1,11 @@
+#0;are;3;f1.txt;1;f2.txt;1;f6.txt;1;#
+#7;hi;3;f1.txt;2;f2.txt;1;f3.txt;1;#
+#7;Hello;1;f1.txt;1;#
+#7;how;4;f1.txt;1;f2.txt;1;f3.txt;1;f6.txt;1;#
+#7;hello;2;f3.txt;1;f6.txt;1;#
+#7;hai;1;f6.txt;1;#
+#20;u?;1;f6.txt;1;#
+#22;what?;1;f3.txt;1;#
+#24;you;1;f2.txt;1;#
+#26;?;1;f2.txt;1;#
+#26;12345;1;f3.txt;1;#
